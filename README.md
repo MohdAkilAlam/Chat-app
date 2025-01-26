@@ -30,7 +30,7 @@ A Chatting Web Application similar to [WhatsApp](https://web.whatsapp.com/) wher
 
 1. Welcome Screen
 
-![](./views/1.png)
+![]
 
 2. Personal Chat Screen
 
