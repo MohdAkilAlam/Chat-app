@@ -1,6 +1,6 @@
 # Chat App - [Live Link](https://chat-app-by-charan.vercel.app/) - [Demo Link](https://www.youtube.com/watch?v=5_Ouh0Q_aQo) - [Blog Post](https://blogsbycharan.hashnode.dev/how-to-build-a-chat-app)
 
-A Chatting Web Application similar to [WhatsApp](https://web.whatsapp.com/) where users can share messages, images, videos, and any other files with a single (or) multiple recipients.
+A Chatting Web Application similar to [WhatsApp](https://web.whatsapp.com/) where users can share messages, images, videos,and any other files with a single (or) multiple recipients.
 
 # Features #
 
