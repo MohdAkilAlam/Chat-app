@@ -2,7 +2,7 @@
 
 A Chatting Web Application similar to [WhatsApp](https://web.whatsapp.com/) where users can share messages, images, videos, and any other files with a single (or) multiple recipients.
 
-# Features
+# Features #
 
 - Unique Chat room for every pair of users. (End-to-End)
 - Unique Chat room for a selected set of users. (Groups)
