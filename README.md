@@ -17,7 +17,7 @@ A Chatting Web Application similar to [WhatsApp](https://web.whatsapp.com/) wher
 - New-unseen-message Indicator. (Notification)
 - **Responsive Design** - Split Pages View for Large (and) Single Page View for Small Screen Sizes.
 
-# Tech Stack Used
+# Tech Stack Used #
 
 - ReactJS Framework
 - RecoilJS - For Global State Management
